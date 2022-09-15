@@ -1,0 +1,50 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr'
+title = 'ECSQARU 2023'
+theme = "soho"
+
+[params]
+description = "ECSQARU 2023"
+
+[menu]
+    [[menu.main]]
+    weight = 100
+    name = "Keynote speakers"
+    identifier = "keynote"
+    url = "/keynote-speakers/"
+
+    [[menu.main]]
+    weight = 200
+    name = "Program"
+    identifier = "program"
+    url = "/program/"
+
+    [[menu.main]]
+    weight = 300
+    name = "Important dates"
+    identifier = "dates"
+    url = "/dates/"
+
+    [[menu.main]]
+    weight = 400
+    name = "Committees"
+    identifier = "committees"
+    url = "/committees/"
+
+    [[menu.main]]
+    weight = 500
+    name = "Call for papers"
+    identifier = "call"
+    url = "/call/"
+
+    [[menu.main]]
+    weight = 600
+    name = "Registration"
+    identifier = "registration"
+    url = "/registration/"
+
+    [[menu.main]]
+    weight = 700
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact/"
