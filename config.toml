@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.cril.univ-artois.fr/ecsqaru23/'
 languageCode = 'fr'
 title = 'ECSQARU 2023'
 theme = "soho"
