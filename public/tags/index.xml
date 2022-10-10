@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ECSQARU 2023</title>
-    <link>http://example.org/tags/</link>
+    <link>https://www.cril.univ-artois.fr/ecsqaru23/tags/</link>
     <description>Recent content in Tags on ECSQARU 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://www.cril.univ-artois.fr/ecsqaru23/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

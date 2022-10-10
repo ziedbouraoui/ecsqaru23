@@ -1,10 +1,12 @@
 baseURL = 'https://www.cril.univ-artois.fr/ecsqaru23/'
 languageCode = 'fr'
 title = 'ECSQARU 2023'
-theme = "soho"
+# theme = "soho"
+theme = "ananke"
 
 [params]
 description = "ECSQARU 2023"
+cover_dimming_class = "bg-black-50"
 
 [menu]
     [[menu.main]]

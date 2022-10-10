@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECSQARU 2023</title>
-    <link>http://example.org/</link>
+    <link>https://www.cril.univ-artois.fr/ecsqaru23/</link>
     <description>Recent content on ECSQARU 2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://www.cril.univ-artois.fr/ecsqaru23/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for papers</title>
-      <link>http://example.org/call/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/call/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/call/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/call/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Committees</title>
-      <link>http://example.org/committees/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/committees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/committees/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/committees/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/contact/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Important dates</title>
-      <link>http://example.org/dates/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/dates/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/dates/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Keynote speakers</title>
-      <link>http://example.org/keynote-speakers/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/keynote-speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/keynote-speakers/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/keynote-speakers/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>http://example.org/program/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/program/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/program/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Registration</title>
-      <link>http://example.org/registration/</link>
+      <link>https://www.cril.univ-artois.fr/ecsqaru23/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/registration/</guid>
+      <guid>https://www.cril.univ-artois.fr/ecsqaru23/registration/</guid>
       <description>TBA</description>
     </item>
     

@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/call/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/call/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/categories/</loc>
   </url><url>
-    <loc>http://example.org/committees/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/committees/</loc>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/contact/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/</loc>
   </url><url>
-    <loc>http://example.org/dates/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/dates/</loc>
   </url><url>
-    <loc>http://example.org/keynote-speakers/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/keynote-speakers/</loc>
   </url><url>
-    <loc>http://example.org/program/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/program/</loc>
   </url><url>
-    <loc>http://example.org/registration/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/registration/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.cril.univ-artois.fr/ecsqaru23/tags/</loc>
   </url>
 </urlset>
