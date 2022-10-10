@@ -3,6 +3,7 @@ languageCode = 'fr'
 title = 'ECSQARU 2023'
 # theme = "soho"
 theme = "ananke"
+copyright = "CRIL - Univ. Artois & CNRS"
 
 [params]
 description = "ECSQARU 2023"
