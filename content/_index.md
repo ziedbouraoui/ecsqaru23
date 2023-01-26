@@ -5,7 +5,7 @@ featured_image: img/arras5.jpeg
 
 ### Welcome to ECSQARU 2023  
 
-The 17th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2023) will be held in Arras (France), on September 18-22, 2023.  
+The 17th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty (ECSQARU 2023) will be held in Arras (France), on September 19-22, 2023.  
 
 Papers will be published within Springer the LNAI (Lecture Notes in Artificial Intelligence) series. In addition to that,extended versions of selected papers will appear in a special issue of the International Journal of Approximate Reasoning.   
 
