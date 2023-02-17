@@ -1,6 +1,6 @@
 ---
 title: Important dates
-featured_image: img/arras5.jpeg
+featured_image: img/arras4.jpeg
 ---
 
 May 12, 2023:       	Abstract submission deadline  
