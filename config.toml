@@ -12,6 +12,12 @@ cover_dimming_class = "bg-black-50"
 [menu]
 
     [[menu.main]]
+    weight = 500
+    name = "Call for papers"
+    identifier = "call"
+    url = "/call/"
+
+    [[menu.main]]
     weight = 300
     name = "Important dates"
     identifier = "dates"
@@ -35,11 +41,7 @@ cover_dimming_class = "bg-black-50"
 #    identifier = "committees"
 #    url = "/committees/"
 
-    [[menu.main]]
-    weight = 500
-    name = "Call for papers"
-    identifier = "call"
-    url = "/call/"
+
 
 #    [[menu.main]]
 #    weight = 600
