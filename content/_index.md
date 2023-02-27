@@ -1,5 +1,6 @@
 ---
 featured_image: /img/arras5.jpeg
+description: The 17th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty
 ---
 
 ### Welcome to ECSQARU 2023  
